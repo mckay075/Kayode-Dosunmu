@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kayode, an <a href="https://linkedin.com/in/kayode">IT Professional
+<h1>Hi, I'm Kayode, an <a href="https://linkedin.com/in/kayodedosunmu">IT Professional
 
 💻 Information Technology Projects:</h2>
 

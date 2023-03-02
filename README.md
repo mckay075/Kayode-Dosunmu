@@ -1,7 +1,8 @@
 <h1>Hi, I'm Kayode, an <a href="https://linkedin.com/in/kayodedosunmu">IT Professional
   
-   Information Technology Projects:
-
+   
+<h2>👨‍💻 Information Technology Projects:</h2>
+  
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mckay075/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/mckay075/post-install-config)
